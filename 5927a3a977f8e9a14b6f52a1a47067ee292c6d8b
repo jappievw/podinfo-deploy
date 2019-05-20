@@ -1,0 +1,1 @@
+{"jobID":"b5bbcd6a-5b7c-84c8-b619-db863cd08f59","spec":{"type":"policy","cause":{"Message":"","User":"Jasper van Wanrooy \u003cj.vanwanrooy@coolblue.nl\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
