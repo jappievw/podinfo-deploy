@@ -14,6 +14,6 @@ spec:
       - backend:
           serviceName: metrics
           servicePort: 3000
-        path: /metrics
+        path: /mighty-fine
 status:
   loadBalancer: {}
